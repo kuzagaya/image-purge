@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python purge.py [path_to_directory]
 ```
 ## Screenshots:
-![screenshot]("/img/screenshot.png")
+![screenshot]("https://raw.githubusercontent.com/GurpreetMeelu/image-purger/master/img/screenshot2.png")
 
 ## Built With
 * [Keras](https://www.tensorflow.org/) - The ML framework used
