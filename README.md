@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python purge.py [path_to_directory]
 ```
 ## Screenshots:
-[screenshot2.png](https://postimg.cc/DW7CzcLX)
+![screenshot2.png](https://i.postimg.cc/JhkSP6hP/screenshot2.png)
 
 ## Built With
 * [Keras](https://www.tensorflow.org/) - The ML framework used
