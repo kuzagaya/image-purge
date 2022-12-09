@@ -1,5 +1,5 @@
 # Image Purge: Removing Notes from a Directory
-The goal of this project is to automate the process of deleting images of notes from your directory. The project was inspired by the personal experience of having to manually delete a large number of images of notes from a folder. So in this projet we automate this task using python.
+The goal of this project is to automate the process of deleting images of notes from your directory. The project was inspired by the personal experience of having to manually delete a large number of images of notes after the exams from the folders. So in this projet we automate this task using python.
 
 A deep neural network is trained to classify images and delete those that are no longer needed. This saves users time and effort, allowing them to easily manage and organize their exam image collections.
 
